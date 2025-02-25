@@ -14,7 +14,7 @@
 **Data Analysis & Machine Learning**
 
 ## Dataset 📂
-Historical stock prices for Coca-Cola. Download from the provided link.
+https://www.kaggle.com/datasets/meetnagadia/coco-cola-stock-data-19622021/data
 
 ## Objective 🎯
 - Predict stock prices and analyze trends using historical data.
