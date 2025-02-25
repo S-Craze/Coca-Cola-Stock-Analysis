@@ -1,6 +1,6 @@
-# Coca-Cola Stock Analysis and Prediction 📊📈
+# 📊📈 Coca-Cola Stock Analysis and Prediction
 
-## Tools & Technologies 🛠️
+## 🛠️ Tools & Technologies
 - Python
 - Machine Learning (ML)
 - SQL
@@ -10,25 +10,25 @@
 - Matplotlib & Seaborn
 - Scikit-learn
 
-## Domain 🌐
+## 🌐 Domain
 **Data Analysis & Machine Learning**
 
-## Dataset 📂
+## 📂 Dataset 
 https://www.kaggle.com/datasets/meetnagadia/coco-cola-stock-data-19622021/data
 
-## Objective 🎯
+## 🎯 Objective
 - Predict stock prices and analyze trends using historical data.
 - Develop a machine learning model for accurate predictions.
 - Perform Exploratory Data Analysis (EDA) for insights.
 
-## Methodology 🔍
+## 🔍 Methodology
 1. **Data Collection:** Fetch historical data via Yahoo Finance API.
 2. **Data Cleaning:** Handle missing values and outliers.
 3. **Feature Engineering:** Create new features like moving averages.
 4. **EDA:** Visualize trends and relationships.
 5. **Model Training:** Train a Random Forest model.
 
-## Conclusion/Deliverables 📋
+## 📋 Conclusion/Deliverables
 - **Stock Performance:** Consistent growth, reliable for long-term investors.
 - **Trend Analysis:** Clear trends in stock prices and moving averages.
 - **Predictive Model:** Accurate predictions with Random Forest Regressor.
